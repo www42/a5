@@ -1,30 +1,37 @@
-[LP1]: https://foo
-[LP2]: https://bar
+[LP0]: https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
+[LP1]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
+[LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
-# AZ-000 Azure foo bar
 
-## Learning Paths 🚀
+# Azure in 5 Wochen
 
-- Learning Path 1️: [Azure foo][LP1]
-- Learning Path 2️: [Azure bar][LP2]
+## AZ-104 Learning Paths 🚀
+
+- Learning Path [Manage identities and governance in Azure][LP1]
+- Learning Path [Prerequisites for Azure administrators (Tools)][LP0]
+- Learning Path [Configure and manage virtual networks for Azure administrators][LP2]
+- Learning Path [Implement and manage storage in Azure][LP3]
+- Learning Path [Deploy and manage Azure compute resources][LP4]
+- Learning Path [Monitor and back up Azure resources][LP5]
+
+<br>
 
 
 ## Labs 🛠️
 
 <!-- 
-[Lab environment Skillable](https://alh.learnondemand.net/) 
 [Lab environment Skillable](https://brainymotion.learnondemand.net/)
-[Lab environment Skillable](https://gknetherlands.learnondemand.net)
-
 -->
 
-<!--
-[Lab environment Go Deploy](https://lms.godeploy.it)
--->
 
+<!-- 
 [GitHub Repo Microsoft Learn](https://github.com/foo)
+-->
 
-[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
+Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 <br>
 
@@ -33,17 +40,15 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft Certified: Fundamentals](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg"       width="100"/> | [Microsoft Certified: Expert](https://) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/> | [Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |
 
 
-[Practice Assessment](https://)
+[Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/practice/assessment?assessment-type=practice&assessmentId=21&practice-assessment-type=certification)
 
 <br>
 
 
-## New: Microsoft Applied Skills 🎉
+## Microsoft Applied Skills 🎉
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
@@ -75,6 +80,8 @@
 
 ## Microsoft Documentation Landing Pages 📲
 
+[Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
+
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
 [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
@@ -85,21 +92,9 @@
 
 [Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
 
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
-
-[Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
-
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
 [Kusto documentation](https://learn.microsoft.com/en-us/kusto/)
-
-[Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
-
-[Microsoft Entra ID Governance documentation](https://learn.microsoft.com/en-us/entra/id-governance/)
-
-[Microsoft cloud security benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 
@@ -108,16 +103,6 @@
 [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
 
 [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
-
-[Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
-
-
-
-## Useful Links 🤿
 
 <br>
 
@@ -153,4 +138,4 @@
 
 ---
 
-[Top](#az-000-azure-foo-bar)
+[Top](#azure-in-5-wochen)
