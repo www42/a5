@@ -6,7 +6,12 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
 
+
 # Azure in 5 Wochen
+
+[Woche 1 ( 22. - 26. Juni)](Woche1/README.md)
+
+<br>
 
 ## AZ-104 Learning Paths 🚀
 
