@@ -28,15 +28,10 @@
 ## Labs 🛠️
 
 <!-- 
-[Lab environment Skillable](https://brainymotion.learnondemand.net/)
 -->
+[Lab environment Skillable](https://gfn.learnondemand.net/)
 
-
-<!-- 
-[GitHub Repo Microsoft Learn](https://github.com/foo)
--->
-
-Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+Optional: [Lab Instructions step by step AZ-104](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 <br>
 
