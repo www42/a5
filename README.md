@@ -20,24 +20,24 @@
 <br>
 
 ### Woche 2   (29. - 03. Juli)
-- AZ-104 [Prerequisites for Azure administrators (CloudShell and Templates)][LP0-AZ104]
+- AZ-104 [Prerequisites for Azure administrators - CloudShell and Templates][LP0-AZ104]
 - AZ-104 [Configure and manage virtual networks for Azure administrators][LP2-AZ104]
 
 <br>
 
-## Woche 3   (06. - 10. Juli)
+### Woche 3   (06. - 10. Juli)
 - AZ-104 [Implement and manage storage in Azure][LP3-AZ104]
 - AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (App Service)
 
 <br>
 
-## Woche 4   (13. - 17. Juli)
+### Woche 4   (13. - 17. Juli)
 - AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (Container and Kubernetes)
 - AZ-104 [Monitor and back up Azure resources][LP5-AZ104]
 
 <br>
 
-## Woche 5   (20. - 24. Juli)     
+### Woche 5   (20. - 24. Juli)     
 - Prüfungsvorbereitung ([Prüfungssimulation Measure Up](https://learn.measureup.com/))
 - Prüfung ([Prüfungsanmeldung](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104))
 
