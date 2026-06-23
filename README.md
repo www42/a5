@@ -1,26 +1,45 @@
-[LP0]: https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
-[LP1]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
-[LP2]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
-[LP3]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
-[LP4]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
-[LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
+[LP0-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
+[LP1-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
+[LP2-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
+[LP3-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
+[LP4-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
+[LP5-AZ104]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
+
+[LP1-AZ900]: https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+[LP2-AZ900]: https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
+[LP3-AZ900]: https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
+[LP4-AZ900]: https://learn.microsoft.com/en-us/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects/
 
 
+# Azure in 5 Wochen 🚀
 
-# Azure in 5 Wochen
-
-[Woche 1 ( 22. - 26. Juni)](Woche1/README.md)
+### Woche 1   (22. - 26. Juni)
+- Introduction to  Cloud Computing: [Concepts](LP1-AZ900), [Services](LP2-AZ900), [Management](LP3-AZ900) (AZ-900)
+- AZ-104 [Manage identities and governance in Azure][LP1-AZ104]
 
 <br>
 
-## AZ-104 Learning Paths 🚀
+### Woche 2   (29. - 03. Juli)
+- AZ-104 [Prerequisites for Azure administrators (CloudShell and Templates)][LP0-AZ104]
+- AZ-104 [Configure and manage virtual networks for Azure administrators][LP2-AZ104]
 
-- Learning Path [Manage identities and governance in Azure][LP1]
-- Learning Path [Prerequisites for Azure administrators (Tools)][LP0]
-- Learning Path [Configure and manage virtual networks for Azure administrators][LP2]
-- Learning Path [Implement and manage storage in Azure][LP3]
-- Learning Path [Deploy and manage Azure compute resources][LP4]
-- Learning Path [Monitor and back up Azure resources][LP5]
+<br>
+
+## Woche 3   (06. - 10. Juli)
+- AZ-104 [Implement and manage storage in Azure][LP3-AZ104]
+- AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (App Service)
+
+<br>
+
+## Woche 4   (13. - 17. Juli)
+- AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (Container and Kubernetes)
+- AZ-104 [Monitor and back up Azure resources][LP5-AZ104]
+
+<br>
+
+## Woche 5   (20. - 24. Juli)     
+- Prüfungsvorbereitung ([Prüfungssimulation Measure Up](https://learn.measureup.com/))
+- Prüfung ([Prüfungsanmeldung](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104))
 
 <br>
 
@@ -31,7 +50,9 @@
 -->
 [Lab environment Skillable](https://gfn.learnondemand.net/)
 
-Optional: [Lab Instructions step by step AZ-104](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+Optional: [Lab Instructions AZ-104](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+
+Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 
 <br>
 
