@@ -19,13 +19,13 @@
 
 <br>
 
-### Woche 2   (29. - 03. Juli)
+### Woche 2   (29. - 3. Juli)
 - AZ-104 [Prerequisites for Azure administrators - CloudShell and templates][LP0-AZ104]
 - AZ-104 [Configure and manage virtual networks for Azure administrators][LP2-AZ104]
 
 <br>
 
-### Woche 3   (06. - 10. Juli)
+### Woche 3   (6. - 10. Juli)
 - AZ-104 [Implement and manage storage in Azure][LP3-AZ104]
 - AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (App Service)
 
@@ -46,8 +46,6 @@
 
 ## Labs 🛠️
 
-<!-- 
--->
 [Lab environment Skillable](https://gfn.learnondemand.net/)
 
 Optional: [Lab Instructions AZ-104](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
