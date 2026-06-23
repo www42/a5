@@ -27,7 +27,7 @@
 
 ### Woche 3   (6. - 10. Juli)
 - AZ-104 [Implement and manage storage in Azure][LP3-AZ104]
-- AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (App Service)
+- AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (VMs, App Service)
 
 <br>
 
