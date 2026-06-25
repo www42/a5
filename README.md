@@ -51,6 +51,14 @@
 <br>
 
 
+## GitHub Accounts ⚗️
+
+[Deniz](https://github.com/dvrdnz)
+[Thomas](https://github.com/www42)
+
+<br>
+
+
 ## Labs 🛠️
 
 [Lab environment Skillable](https://gfn.learnondemand.net/)
