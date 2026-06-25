@@ -53,7 +53,7 @@
 
 ## GitHub Accounts ⚗️
 
-[Deniz](https://github.com/dvrdnz)
+[Deniz](https://github.com/dvrdnz) $nbsp;
 [Thomas](https://github.com/www42)
 
 <br>
