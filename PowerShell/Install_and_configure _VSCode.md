@@ -1,11 +1,11 @@
-### 1. Prerequisites: Windows Terminal and winget
+## 1. Prerequisites: Windows Terminal and winget
 
 <img src="./media/Install_and_configure_VSCode_0.png" alt="Start with Terminal" width="500">
 
 <br>
 
 
-## Install VS Code and even more packages
+## 2. Install VS Code and even more packages
 
 ### Install Packages
 
@@ -24,8 +24,9 @@ foreach ($pkg in $packages) {
 }
 ```
 
+### Reload PATH variable
+
 ```powershell
-# Reload PATH variable
 Write-Host "Refreshing PATH ..." -ForegroundColor Cyan
 $env:PATH = [System.Environment]::GetEnvironmentVariable("PATH", "Machine") + ";" +
             [System.Environment]::GetEnvironmentVariable("PATH", "User")
