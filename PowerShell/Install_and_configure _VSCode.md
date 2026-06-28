@@ -1,9 +1,10 @@
-1. Start Windows Terminal
+### Start with Windows Terminal
 
 <img src="./media/Install_and_configure_VSCode_0.png" alt="Start with Terminal" width="500">
 
 
 2. Install VS Code and some more packages
+
 ```powershell
 $packages = @(
     "Git.Git",
