@@ -56,6 +56,8 @@
 
 [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
+[Gemma 4](https://deepmind.google/models/gemma/gemma-4/)
+
 
 
 
