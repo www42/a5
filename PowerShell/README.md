@@ -2,7 +2,7 @@
 
 [Course AZ-040: Automate Administration with PowerShell](https://learn.microsoft.com/en-us/training/courses/az-040t00) Das Seminar zu PowerShell von Microsoft Learn
 
-[PowerShell - Wikipedia](https://en.wikipedia.org/wiki/PowerShell) Schöne Zusammenfassung
+[PowerShell - Wikipedia](https://en.wikipedia.org/wiki/PowerShell) Gute Zusammenfassung
 
 [Monad Manifesto](https://github.com/MicrosoftDocs/PowerShell-Docs/blob/main/assets/MonadManifesto.pdf) Jeffrey Snover 2002
 
