@@ -1,3 +1,5 @@
+# Install and configure VS Code
+
 ## 1. Prerequisites: Windows Terminal and winget
 
 <img src="./media/Install_and_configure_VSCode_10.png" alt="Start with Terminal" width="500">
@@ -158,4 +160,4 @@ Get-Module -ListAvailable az,microsoft.entra,microsoft.graph
 
 <br>
 
-### Happy VS Code!
+### 5. Happy VS Code!

@@ -1,5 +1,14 @@
 # Powershell 
 
+## Install and configure VS Code
+
+[Todo list 🔢](Install_and_configure%20_VSCode.md)
+
+<br>
+
+
+## Useful links
+
 [Course AZ-040: Automate Administration with PowerShell](https://learn.microsoft.com/en-us/training/courses/az-040t00) Das Seminar zu PowerShell von Microsoft Learn
 
 [PowerShell - Wikipedia](https://en.wikipedia.org/wiki/PowerShell) Gute Zusammenfassung
