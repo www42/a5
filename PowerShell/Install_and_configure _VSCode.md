@@ -1,9 +1,9 @@
-### Start with Windows Terminal
+### 1. Start with Windows Terminal
 
 <img src="./media/Install_and_configure_VSCode_0.png" alt="Start with Terminal" width="500">
 
 
-2. Install VS Code and some more packages
+### 2. Install VS Code and some more packages
 
 ```powershell
 $packages = @(
@@ -19,7 +19,7 @@ foreach ($pkg in $packages) {
 }
 ```
 
-3. Configure VS Code
+### 3. Configure VS Code
 
 - Ignore GitHub Copilot
 
