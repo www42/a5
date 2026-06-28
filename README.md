@@ -50,6 +50,16 @@
 
 <br>
 
+## Today's Links - Monday June 29
+
+[Azure Resource Manager REST API](https://learn.microsoft.com/en-us/rest/api/resources/)
+
+[Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+
+
+
+
+<br>
 
 ## GitHub Accounts ⚗️
 
@@ -109,6 +119,12 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 [Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
+
+<br>
+
+## PowerShell
+
+[Click here](PowerShell/README.md)
 
 <br>
 
