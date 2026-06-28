@@ -1,4 +1,4 @@
-# Install and configure VS Code
+# Install and configure VS Code 🔢
 
 ## 1. Prerequisites: Windows Terminal and winget
 
