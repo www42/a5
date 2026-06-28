@@ -19,7 +19,7 @@
 
 <br>
 
-### Woche 2   (29. - 3. Juli)
+### ➡️ Woche 2   (29. - 3. Juli) ⬅️
 - AZ-104 [Prerequisites for Azure administrators - CloudShell and templates][LP0-AZ104]
 - AZ-104 [Configure and manage virtual networks for Azure administrators][LP2-AZ104]
 
