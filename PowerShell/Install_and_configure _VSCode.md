@@ -1,9 +1,11 @@
-### 1. Start with Windows Terminal
+### 1. Prerequisites: Windows Terminal and winget
 
 <img src="./media/Install_and_configure_VSCode_0.png" alt="Start with Terminal" width="500">
 
+<br>
 
-### 2. Install VS Code and some more packages
+
+### 2. Install VS Code and even more packages
 
 ```powershell
 $packages = @(
@@ -18,6 +20,8 @@ foreach ($pkg in $packages) {
     winget install --id $pkg --exact --silent --accept-package-agreements --accept-source-agreements
 }
 ```
+<br>
+
 
 ### 3. Configure VS Code
 
