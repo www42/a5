@@ -52,9 +52,9 @@
 
 ## Today's Links - Monday June 29
 
-[Azure Resource Manager REST API](https://learn.microsoft.com/en-us/rest/api/resources/)
+[Azure REST API reference ](https://learn.microsoft.com/en-us/rest/api/azure/)
 
-[Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+[Getting Started with PowerShell 3.0 Jump Start](https://www.youtube.com/playlist?list=PLyJiOytEPs4etH7Ujq7PU7jlOlHL-9RmV) mit Jeff Snover und Jason Helmick (Playlist Youtube) - Viel Spaß!
 
 [Gemma 4](https://deepmind.google/models/gemma/gemma-4/)
 
