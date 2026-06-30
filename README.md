@@ -50,16 +50,6 @@
 
 <br>
 
-## Today's Links - Monday June 30
-
-[Azure Template Explorer](https://azurecharts.com/templates) Thanks to Alexander
-
-[Azure REST API reference ](https://learn.microsoft.com/en-us/rest/api/azure/)
-
-
-
-
-<br>
 
 ## GitHub Accounts ⚗️
 
