@@ -50,13 +50,11 @@
 
 <br>
 
-## Today's Links - Monday June 29
+## Today's Links - Monday June 30
+
+[Azure Template Explorer](https://azurecharts.com/templates) Thanks to Alexander
 
 [Azure REST API reference ](https://learn.microsoft.com/en-us/rest/api/azure/)
-
-[Getting Started with PowerShell 3.0 Jump Start](https://www.youtube.com/playlist?list=PLyJiOytEPs4etH7Ujq7PU7jlOlHL-9RmV) mit Jeff Snover und Jason Helmick (Playlist Youtube) - Viel Spaß!
-
-[Gemma 4](https://deepmind.google/models/gemma/gemma-4/)
 
 
 
