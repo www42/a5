@@ -19,6 +19,8 @@
 
 [HOWTO Part 2](./Azure_for_Students/HOWTO_Part2.md)
 
+[HOWTO Part 3](./Azure_for_Students/HOWTO_Part3.md)
+
 <br>
 
 <br>
