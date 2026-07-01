@@ -13,6 +13,16 @@
 
 # Azure in 5 Wochen 🚀
 
+## Azure for Students 🆕
+
+[HOWTO Part 1](./Azure_for_Students/HOWTO_Part1.md)
+
+[HOWTO Part 2](./Azure_for_Students/HOWTO_Part2.md)
+
+<br>
+
+<br>
+
 ### Woche 1   (22. - 26. Juni)
 - Introduction to  Cloud Computing: [Concepts][LP1-AZ900], [Services][LP2-AZ900], [Management][LP3-AZ900] (AZ-900)
 - AZ-104 [Manage identities and governance in Azure][LP1-AZ104]
