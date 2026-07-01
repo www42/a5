@@ -13,7 +13,7 @@
 
 # Azure in 5 Wochen 🚀
 
-## Azure for Students 🆕
+## 🆕 Azure for Students 🆕
 
 [HOWTO Part 1](./Azure_for_Students/HOWTO_Part1.md)
 
