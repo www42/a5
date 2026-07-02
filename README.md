@@ -15,11 +15,11 @@
 
 ## 🆕 Azure for Students 🆕
 
-[HOWTO Part 1](./Azure_for_Students/HOWTO_Part1.md)
+[HOWTO Part 1 "Meine Subscription"](./Azure_for_Students/HOWTO_Part1.md)
 
-[HOWTO Part 2](./Azure_for_Students/HOWTO_Part2.md)
+[HOWTO Part 2 "Mein Tenant"](./Azure_for_Students/HOWTO_Part2.md)
 
-[HOWTO Part 3](./Azure_for_Students/HOWTO_Part3.md)
+[HOWTO Part 3 "Der Dritte Mann"](./Azure_for_Students/HOWTO_Part3.md)
 
 <br>
 
