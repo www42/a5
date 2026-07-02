@@ -1,4 +1,4 @@
-# Part 2 - Create your own tenant and move your subscription to the new tenant
+# Part 2 - Mein Tenant
 
 ## Create your own tenant
 

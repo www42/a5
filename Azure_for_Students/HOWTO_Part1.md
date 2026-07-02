@@ -1,26 +1,28 @@
-# Part 1 - Obtain an Azure for Students Subscription
+# Part 1 - Meine Subscription
 
 ## Browser InPrivate Window
 
 <img src="./media/Azure_for_Students_1.png" width="500">
 
-Navigate to [https://portal.azure.com](https://portal.azure.com)
+Navigiere zum Azure Portal [https://portal.azure.com](https://portal.azure.com)
 
-Sign in using your **gfn.education** address
+Sign in mit der **gfn.education** Adresse.
 
 <img src="./media/Azure_for_Students_2.png" width="500">
 
-Look for subscriptions
+Achte auf **English** als Anzeigesprache!
+
+Subscriptions suchen
 
 <img src="./media/Azure_for_Students_3.png" width="500">
  
-There are no subscription - this is expected.
+Es gibt (noch) keine Subscriptions (Das ist normal.)
 
-Click +Add and select *Azure for Students* 
+Click +Add und wähle *Azure for Students* 
 
 <img src="./media/Azure_for_Students_4.png" width="500">
 
-Web Site -> Start free
+Eine neue Web Site erscheint. Click Start free
 
 
 ## Academic Verification
