@@ -145,6 +145,8 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 
 [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
 
+[Private Link Documentation](https://learn.microsoft.com/en-us/azure/private-link/)
+
 <br>
 
 ## Your Trainer
