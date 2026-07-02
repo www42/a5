@@ -122,6 +122,11 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 
 [Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
+[AZ-104-MicrosoftAzureAdministrator on Github](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/)
+
+[AZ-104-MicrosoftAzureAdministrator content diretory](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+
+
 <br>
 
 ## PowerShell
