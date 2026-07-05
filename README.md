@@ -20,13 +20,13 @@
 
 <br>
 
-### ➡️ Woche 2   (29. - 3. Juli) ⬅️
+###  Woche 2   (29. - 3. Juli) 
 - AZ-104 [Prerequisites for Azure administrators - CloudShell and templates][LP0-AZ104]
 - AZ-104 [Configure and manage virtual networks for Azure administrators][LP2-AZ104]
 
 <br>
 
-### Woche 3   (6. - 10. Juli)
+### ➡️ Woche 3   (6. - 10. Juli) ⬅️
 - AZ-104 [Implement and manage storage in Azure][LP3-AZ104]
 - AZ-104 [Deploy and manage Azure compute resources][LP4-AZ104] (VMs, App Service)
 
@@ -115,6 +115,7 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 
 [AZ-104-MicrosoftAzureAdministrator content diretory](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
+[Download A Guide to Claims-Based Identity and Access Control, Second Edition Book ](https://www.microsoft.com/en-us/download/details.aspx?id=28362&msockid=258752c10cad6abd1c1c46bd0d016b0c)
 
 <br>
 
