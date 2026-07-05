@@ -60,7 +60,7 @@
 <br>
 
 
-## Labs 🛠️
+## Skillable Labs 🛠️
 
 [Lab environment Skillable](https://gfn.learnondemand.net/)
 
