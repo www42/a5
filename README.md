@@ -129,6 +129,8 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 
 [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
 
+[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
+
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
 [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
@@ -136,8 +138,6 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
 [Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
-
-[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
 
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
@@ -152,6 +152,8 @@ Optional: [Lab Instructions AZ-900 (Guided Projects)][LP4-AZ900]
 [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
 
 [Private Link Documentation](https://learn.microsoft.com/en-us/azure/private-link/)
+
+[Azure networking documentation](https://learn.microsoft.com/en-us/azure/networking/)
 
 <br>
 
