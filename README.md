@@ -13,6 +13,13 @@
 
 # Azure in 5 Wochen 🚀
 
+## Aktuelle Videos
+
+[Kati](https://katigfnstorage.blob.core.windows.net/video/Rick_Astley_Never_Gonna_Give_You_Up.mp4?sp=r&st=2026-07-07T08:53:07Z&se=2026-07-07T17:08:07Z&skoid=c52058c5-e31f-46be-a0f5-186200dc329c&sktid=13d87e95-cc88-45d1-b93a-00415ecf0379&skt=2026-07-07T08:53:07Z&ske=2026-07-07T17:08:07Z&sks=b&skv=2026-02-06&spr=https&sv=2026-02-06&sr=b&sig=8yJBfeCrpXC3awc4i1BawZN3eR4jJfYrEXkuMyQqKbA%3D)
+[Daniel](https://remus07072026.blob.core.windows.net/gucksdu/gucksDU.mp4?sp=r&st=2026-07-07T09:10:04Z&se=2026-07-08T17:25:04Z&spr=https&sv=2026-02-06&sr=b&sig=SENrSiw43NVIEohJAhGWcSBWhBbCGviNbUrQwGI1BvY%3D)
+[Thomas](https://sagfna5xyz.blob.core.windows.net/videos/Ben%20Armstrong%20-%20Best%20PowerShell%20Tip%20in%20the%20World%20-%20Cologne%202016.mp4?sp=r&st=2026-07-07T09:32:20Z&se=2026-07-08T08:00:00Z&spr=https&sv=2026-02-06&sr=b&sig=5NIehBtoR7soN1eyuraeVT9uNeEJfa8M1RnjimRzaMU%3D)
+[Thomas](https://sagfna5xyz.blob.core.windows.net/videos/Lightboard%20Session%20-%20Virtuelle%20Switche%20mit%20PowerShell%20verwalten%20-%20Thomas%20J%C3%A4kel.mp4?sv=2025-07-05&spr=https&st=2026-07-07T12%3A09%3A39Z&se=2026-07-08T08%3A00%3A00Z&sr=b&sp=r&sig=AhmjxZASbdxNBYNM%2B4WloOw4M5b81xVnI0tUpkmsFtA%3D)
+
 
 ### Woche 1   (22. - 26. Juni)
 - Introduction to  Cloud Computing: [Concepts][LP1-AZ900], [Services][LP2-AZ900], [Management][LP3-AZ900] (AZ-900)
