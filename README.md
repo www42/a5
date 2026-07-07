@@ -22,6 +22,15 @@
 [Edgar](https://rgstorageedgaredgar.blob.core.windows.net/video/357054_medium.mp4?sp=r&st=2026-07-07T09:45:15Z&se=2026-07-07T20:00:15Z&spr=https&sv=2026-02-06&sr=b&sig=3E6V%2B0HOygaPNYuyg9wq3SBvK9U4kYQ5kHFvTSHEwtc%3D)
 [Thomas](https://sagfna5xyz.blob.core.windows.net/videos/Lightboard%20Session%20-%20Virtuelle%20Switche%20mit%20PowerShell%20verwalten%20-%20Thomas%20J%C3%A4kel.mp4?sv=2025-07-05&spr=https&st=2026-07-07T12%3A09%3A39Z&se=2026-07-08T08%3A00%3A00Z&sr=b&sp=r&sig=AhmjxZASbdxNBYNM%2B4WloOw4M5b81xVnI0tUpkmsFtA%3D)
 
+## Aktuelle Web Sites
+
+[Sercan](https://storage69123.z1.web.core.windows.net/)
+[Matthias](https://lagerhallecity1.z36.web.core.windows.net)
+
+
+<br>
+
+<br>
 
 ### Woche 1   (22. - 26. Juni)
 - Introduction to  Cloud Computing: [Concepts][LP1-AZ900], [Services][LP2-AZ900], [Management][LP3-AZ900] (AZ-900)
