@@ -1,5 +1,15 @@
+# Login to Azure as interactive user
+# ----------------------------------
+
+# PowerShell
+
 # Disconnect-AzAccount  
 Connect-AzAccount
 Get-AzContext | Format-List *
 
-Get-AzPolicyAssignment | Format-Table Name, AssignmentType, Scope
+
+# Azure CLI
+
+#az logout
+az login
+az account show
