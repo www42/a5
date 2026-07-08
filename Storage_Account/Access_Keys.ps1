@@ -15,3 +15,9 @@ az storage account keys list --account-name $storageAccountName --query '[0].val
 az storage account keys renew --account-name $storageAccountName --key primary
 # '--key primary' is deprecated, use '--key key1' instead
 az storage account keys renew --account-name $storageAccountName --key key1
+$key = az storage account keys list --account-name $storageAccountName --query '[0].value' --output tsv
+
+
+# Web app mit dem neuen Key aktualisieren
+$appServiceName = 'foo'
+az webapp config appsettings set --name $appServiceName --settings STORAGE_ACCOUNT_KEY=$key
