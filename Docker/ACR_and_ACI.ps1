@@ -9,7 +9,6 @@ az account show
 
 # 2.) Set Region
 # ---------------
-#   https://learn.microsoft.com/en-us/cli/azure/policy/assignment?view=azure-cli-latest#az-policy-assignment-list
 az policy assignment list --query "[].{Name:name, DisplayName:displayName, Scope:scope}" -o table
 az policy assignment show --name "sys.regionrestriction"
 az policy assignment show --name "sys.regionrestriction" --query "parameters"
@@ -20,7 +19,6 @@ $location = 'swedencentral'
 
 # 3.) Create Resource Group
 # -------------------------
-#   https://learn.microsoft.com/en-us/cli/azure/group?view=azure-cli-latest#az-group-create
 $resourceGroupName = 'rg-container'
 az group create --name $resourceGroupName --location $location
 
@@ -29,7 +27,6 @@ az group list --query "[].{Name:name,Location:location}" --output table
 
 # 4.) Register Azure Resource Provider
 # ------------------------------------
-#   https://learn.microsoft.com/en-us/cli/azure/provider?view=azure-cli-latest#az-provider-register
 az provider register --namespace 'Microsoft.ContainerRegistry'
 
 az provider show --namespace 'Microsoft.ContainerRegistry' --query "registrationState" --output  tsv
@@ -37,7 +34,6 @@ az provider show --namespace 'Microsoft.ContainerRegistry' --query "registration
 
 # 5.) Create Azure Container Registry (ACR)
 # -----------------------------------------
-#   https://learn.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest#az-acr-create
 $acrName = 'timmyacr'
 az acr create --name $acrName --resource-group $resourceGroupName --sku Basic --admin-enabled $true
 
@@ -54,9 +50,10 @@ echo COPY index.html /usr/share/nginx/html >> Dockerfile
 dir
 
 
-# Build Docker Image in Azure --> Does not work with Azure for Students :-(
-#   https://learn.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest#az-acr-build
+# Build Docker Image in Azure
+#  ---------------------------
 az acr build --image foo/nginx:v1 --registry $acrName --file Dockerfile .
+# --> Does not work with Azure for Students :-(
 
 
 # 7.) Build Docker Image Locally
@@ -64,7 +61,6 @@ az acr build --image foo/nginx:v1 --registry $acrName --file Dockerfile .
 gcm docker
 docker version
 
-#   https://docs.docker.com/reference/cli/docker/image/ls/
 docker image ls
 
 az acr login --name $acrName
@@ -72,7 +68,6 @@ docker build -t "$acrName.azurecr.io/foo/nginx:v1" -f Dockerfile .
 
 docker image ls "$acrName.azurecr.io/foo/nginx:v1"
 
-#   https://docs.docker.com/reference/cli/docker/image/push/
 docker push "$acrName.azurecr.io/foo/nginx:v1"
 
 az acr repository list --name $acrName --output table
@@ -84,7 +79,6 @@ az acr repository show-tags --name $acrName --repository foo/nginx --output tabl
 $acrUsername = az acr credential show --name $acrName --query username -o tsv
 $acrPassword = az acr credential show --name $acrName --query "passwords[0].value" -o tsv
 
-#   https://learn.microsoft.com/en-us/cli/azure/container?view=azure-cli-latest#az-container-create
 az container create `
    --resource-group $resourceGroupName `
    --name 'aci-hello' `
@@ -103,12 +97,29 @@ $ip = az container show --resource-group $resourceGroupName --name 'aci-hello' -
 
 # 9.) Test ACI
 # -------------
-# Browser http://$ip
+# Browser http://<ip>
 Invoke-WebRequest -Uri http://$ip
 
 
+# Bonus: Pull - Tag - Push
+# ------------------------
+# Pull any image from Docker Hub https://hub.docker.com/
+$image = 'bharathshetty4/supermario'
+docker pull $image
+docker image ls $image
+
+# Tag image
+$repo = 'mario'
+$fullTag = "$acrName.azurecr.io/$repo/$image"
+docker tag $image $fullTag
+
+# Push image to ACR
+az acr login --name $acrName --username $acrUsername --password $acrPassword
+docker push $fullTag
+
 
 # Cleanup
+# ----------
 cd ..
 rm -r -f foo
 
