@@ -28,8 +28,10 @@ az group list --query "[].{Name:name,Location:location}" --output table
 # 4.) Register Azure Resource Provider
 # ------------------------------------
 az provider register --namespace 'Microsoft.ContainerRegistry'
+az provider register --namespace 'Microsoft.ContainerInstance'
 
 az provider show --namespace 'Microsoft.ContainerRegistry' --query "registrationState" --output  tsv
+az provider show --namespace 'Microsoft.ContainerInstance' --query "registrationState" --output  tsv
 
 
 # 5.) Create Azure Container Registry (ACR)
@@ -42,6 +44,8 @@ az acr show --name $acrName --query "{Name:name,LoginServer:loginServer,Location
 
 # 6.) Create Dockerfile
 # ---------------------
+# Als 'UTF-8' speichern, nicht 'UTF-8 with BOM'!
+
 mkdir foo
 cd foo
 echo '<html><h1>Hello Mannheim! Hello Heidelberg!</h1></html>' > index.html
