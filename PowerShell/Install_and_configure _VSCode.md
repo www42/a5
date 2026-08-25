@@ -102,7 +102,7 @@ Get-Module -ListAvailable az,microsoft.entra,microsoft.graph
 
 ### Create keyboard shortcut
 
-`Ctrl-K Ctl-S` -> `Run Selected Text in Active Terminal` -> F8
+`Ctrl-K Ctrl-S` -> `Run Selected Text in Active Terminal` -> F8
 
 <img src="./media/Install_and_configure_VSCode_50.png" alt="Keyboard shortcut" width="500">
 
